@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ebemeelo.github.io/EZe/sitemap_index.txt
+Sitemap: https://ebemeelo.github.io/HeQ/sitemap_index.txt
+Sitemap: https://ebemeelo.github.io/aig/sitemap_index.txt
+Sitemap: https://ebemeelo.github.io/eIJ/sitemap_index.txt
